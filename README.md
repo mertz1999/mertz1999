@@ -8,10 +8,25 @@
 
 ## I'm an Electrical Engineer
 
-- FPGA Developer based Xilinx Processors 
-- Signal processing (like: Image, Audio)
-- Deep learning and Computer vision
-- Machine Learning and Data Analytics
+Signal processing 
++ Image processing specialist
++ Audio processing
++ Computer vision
+
+FPGA Developer
++ specialist in Xilinx Spartan series
++ signal processing on FPGA
++ Design Interface protocol 
++ designing image processing systems on FPGA
+
+microcontroller
++ Exprienced in STM32 
++ Arduino and AVR series
+
+AI
++ Computer vision
++ Machine learning approach
++ deep reinforcement learning
 
 ## Languages and tools 💻
 
