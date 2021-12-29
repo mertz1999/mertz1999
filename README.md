@@ -14,7 +14,7 @@ Signal processing
 
 AI
 + Computer vision
-++ khj
+- khj
 + Machine learning approach
 + deep reinforcement learning
 
