@@ -2,7 +2,7 @@
 <h3 align="center">I`m Signal-processing and Computer-vision Eng.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertz1999&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
-![Banner](1639320200144.jpg)
+![Banner](1.jpg)
 
 ### Other webpages
 - 💠 My [Linkedin] Page (https://www.linkedin.com/in/rezatz/)
