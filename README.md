@@ -4,6 +4,15 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertz1999&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
 ![Banner](1639320200144.jpg)
 
+### Other webpages
+- 💠 My [Linkedin] Page (https://www.linkedin.com/in/rezatz/)
+
+- 📝 Sometimes I write articles on [Virgool](https://virgool.io/@mersap_co)
+
+- 
+
+- 📫 How to reach me **reza.tz780210@gmail.com**
+
 
 ### Research and Working Fields:
 Signal processing 
