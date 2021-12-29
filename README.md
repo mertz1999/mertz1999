@@ -14,15 +14,15 @@
 - 📫 How to reach me **reza.tz780210@gmail.com**
 
 
-### Research and Working Fields:
+### Research and working fields:
 
 Signal processing 
 + Image processing specialist
 + Audio processing
-+ Computer vision
 + signal processing on FPGA
 + DOA Estimation
 
 AI
 + Computer vision
 + Machine learning approach
++ Augmented Reality
