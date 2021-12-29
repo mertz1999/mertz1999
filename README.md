@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Chandrika Deb</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Reza Tanakizadeh</h1>
 [![Linkedin Badge](https://img.shields.io/badge/-rezatz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rezatz)](https://www.linkedin.com/in/rezatz)
 [![Gmail Badge](https://img.shields.io/badge/-reza.tz780210-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:reza.tz780210@gmail.com)](mailto:reza.tz780210@gmail.com)
 <!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
