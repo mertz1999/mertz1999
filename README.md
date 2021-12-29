@@ -2,7 +2,8 @@
 <h3 align="center">I`m Signal-processing and Computer-vision Eng.</h3>
 
 ## I'm an Electrical Engineer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertz1999&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertz1999&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
+![Banner](1639320200144.jpg)
 
 Signal processing 
 + Image processing specialist
