@@ -5,9 +5,9 @@
 ![Banner](1.jpg)
 
 ### more about me:
-- 💠 My exprience in [Linkedin](https://www.linkedin.com/in/rezatz/) Page
+- 🏆 My exprience in [LinkedIn](https://www.linkedin.com/in/rezatz/) Page
 
-- 📝 Sometimes I write articles on [Virgool](https://virgool.io/@mersap_co)
+- 📝 Sometimes I write Persian articles on [Virgool](https://virgool.io/@mersap_co)
 
 - 👨‍🎓 [Stackoverflow](https://stackoverflow.com/users/17739641/reza-tanakizadeh) Profile
 
@@ -24,7 +24,5 @@ Signal processing
 + DOA Estimation
 
 AI
-+ Computer visio
++ Computer vision
 + Machine learning approach
-+ Face Recognition
-
