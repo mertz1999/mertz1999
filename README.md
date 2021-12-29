@@ -1,27 +1,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Reza Tanakizadeh</h1>
 <h3 align="center">I`m Signal-processing and Computer-vision Eng.</h3>
 
-## I'm an Electrical Engineer
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertz1999&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
 ![Banner](1639320200144.jpg)
 
+
+### Research and Working Fields:
 Signal processing 
 + Image processing specialist
 + Audio processing
 + Computer vision
-
-FPGA Developer
-+ specialist in Xilinx Spartan series
 + signal processing on FPGA
-+ Design Interface protocol 
-+ designing image processing systems on FPGA
-
-microcontroller
-+ Exprienced in STM32 
-+ Arduino and AVR series
 
 AI
 + Computer vision
+++ khj
 + Machine learning approach
 + deep reinforcement learning
 
