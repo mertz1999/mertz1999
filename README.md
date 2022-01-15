@@ -7,7 +7,7 @@
 ### more about me:
 - 🏆 My exprience in [LinkedIn](https://www.linkedin.com/in/rezatz/) Page
 
-- 📝 Sometimes I write Persian articles on [Virgool](https://virgool.io/@mersap_co)
+- 📝 Sometimes I write Persian articles on [Commnet](http://mr-comment.ir/)
 
 - 👨‍🎓 [Stackoverflow](https://stackoverflow.com/users/17739641/reza-tanakizadeh) Profile
 
