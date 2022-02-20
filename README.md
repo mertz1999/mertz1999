@@ -16,13 +16,14 @@
 
 ### Research and working fields:
 
+AI
++ Computer vision
++ Machine learning approach
++ Augmented Reality
++ Self-Driving Cars
+
 Signal processing 
 + Image processing specialist
 + Audio processing
 + signal processing on FPGA
 + DOA Estimation
-
-AI
-+ Computer vision
-+ Machine learning approach
-+ Augmented Reality
