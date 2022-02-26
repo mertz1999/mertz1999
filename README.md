@@ -4,6 +4,10 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertz1999&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
 ![Banner](1.jpg)
 
+<audio controls autoplay>
+  <source src="Behnam Bani - 2ta Dele Ashegh (320).mp3" type="audio/mpeg">
+</audio>
+
 ### more about me:
 - 🏆 My exprience in [LinkedIn](https://www.linkedin.com/in/rezatz/) Page
 
