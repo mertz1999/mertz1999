@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Reza Tanakizadeh</h1>
 <h3 align="center">I`m Signal-processing and Computer-vision Eng.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertz1999&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
-![Banner](1.jpg)
 
 <audio controls autoplay>
   <source src="Behnam Bani - 2ta Dele Ashegh (320).mp3" type="audio/mpeg">
