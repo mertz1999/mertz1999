@@ -8,10 +8,10 @@ Hi!
 I'm Reza, a Computer Vision, and Machine Learning Engineer. My goal is to develop innovative projects alongside companies aiming to add value to their projects based on innovation. Learning new technologies and reading new papers is my daily work that make me more stronger to develop machine leanring applications.
 
 Here is a list of technologies I use in my day-to-day coding routine:
-💼 Languages: Python, MATLAB, C++
-💼 Machine learning tools: Pytorch, Tensorflow, Pandas, Numpy, Mlflow, Opencv
-💼 Tools: Git/Github, Docker, Linux(Ubuntu)
-💼 Dashboard development: Plotly, Streamlit, FastAPI
+- 💼 Languages: Python, MATLAB, C++
+- 💼 Machine learning tools: Pytorch, Tensorflow, Pandas, Numpy, Mlflow, Opencv
+- 💼 Tools: Git/Github, Docker, Linux(Ubuntu)
+- 💼 Dashboard development: Plotly, Streamlit, FastAPI
   
 
 <br/>  
