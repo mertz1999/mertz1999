@@ -4,16 +4,14 @@
 ### <div align="center">I'm Reza, a computer vision developer</div>  
   
 
-I have a bachelor's degree in telecommunication electrical engineering(👨‍🎓) at IRIB Uni. and I love to work in Signal Processing and Computer Vision fields. These days, I work in Algo trading and video analysis.
-  
-  
+Hi!
+I'm Reza, a Computer Vision, and Machine Learning Engineer. My goal is to develop innovative projects alongside companies aiming to add value to their projects based on innovation. Learning new technologies and reading new papers is my daily work that make me more stronger to develop machine leanring applications.
 
- - Python Programming
-- Algo Trading
-- Computer vision
-- Augmented Reality
-- Self-Driving Cars
-- Ai for Medicine  
+Here is a list of technologies I use in my day-to-day coding routine:
+💼 Languages: Python, MATLAB, C++
+💼 Machine learning tools: Pytorch, Tensorflow, Pandas, Numpy, Mlflow, Opencv
+💼 Tools: Git/Github, Docker, Linux(Ubuntu)
+💼 Dashboard development: Plotly, Streamlit, FastAPI
   
 
 <br/>  
