@@ -1,10 +1,16 @@
+
 # 💫 About Me:
-Hello! I’m a **Computer Vision and Machine Learning Engineer** passionate about creating cutting-edge solutions that help businesses grow. I specialize in developing real-world AI-driven applications using the latest ML techniques. Whether it’s optimizing systems, improving efficiency, or delivering impactful innovations, I’m here to turn your AI ideas into reality. Let’s collaborate to bring your next big idea to life! 🚀  
-<br>
+Hello! I’m **Reza Tanakizadeh**, a **Computer Vision and Machine Learning Engineer** with a passion for developing cutting-edge solutions that help businesses thrive. I specialize in building **AI-driven applications** for real-world problems, from **medical image segmentation** to **secure AI agents** deployed in **cloud environments**. 
+
+Currently, I'm focused on **architecting AI systems** using **LangChain** and **LangGraph** for enhanced **search capabilities** and **Retrieval-Augmented Generation (RAG)** solutions. With hands-on experience in managing **Kubernetes clusters** and automating workflows, I’m driven by the challenge of optimizing AI systems for **cost efficiency** and **low latency**.
+
+Whether it’s improving system efficiency, enhancing medical applications, or developing innovative AI products, I’m here to turn your **AI ideas** into reality. Let’s build the future of intelligent systems together! 🚀
+
+---
 
 ## 🌐 Let's Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reza.tz1999) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezatz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reza.tz1999)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezatz)  
 
 ---
 
@@ -44,4 +50,39 @@ Hello! I’m a **Computer Vision and Machine Learning Engineer** passionate abou
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💼 Work Experience:
+
+### **AI Software Engineer**  
+**DeepSpring** | April 2024 – Present  
+**Location**: United States  
+- Architecting scalable AI systems, integrating **LLMs** and **RAG-based services** for real-time medical knowledge access.
+- Managing and scaling **Kubernetes clusters** across **Azure**, **AWS**, and **DigitalOcean**, optimizing for **cost-efficiency** and **security**.
+- Building **CI/CD pipelines**, streamlining the deployment and testing of AI modules.
+- Developing **AI agents** for healthcare claims, using **ICD code detection** and **RAG** solutions to improve claim accuracy and reduce rejections.
+
+### **Computer Vision Engineer**  
+**DeepMeds** | September 2022 – April 2024  
+**Location**: Sydney, Australia  
+- Developed **GAN-based** medical image translation tools, achieving up to **96% accuracy** in EEG signal analysis and **86% accuracy** in medical image segmentation.
+- Worked on **CT-scan segmentation** and **YOLO-based dental detection** for **medical image analysis**.
+
+### **Computer Vision Engineer**  
+**Nove** | January 2022 – June 2022  
+**Location**: Tehran, Iran  
+- Enhanced **YOLOv7** for **smoke detection**, achieving a **5% accuracy boost**.
+- Implemented **real-time ball detection** and **face verification** models with high **accuracy** for video processing.
+
+---
+
+# 🏆 Achievements and Certifications:
+- **1st Place** in **Iran's National Elites Foundation - Rahneshan** Competition.
+- **Certifications** in:
+  - **Git** (Advanced Developer)
+  - **MATLAB** (Signal Processing)
+  - **Self-Driving Cars** (Specialization)
+  - **Data Science** (Elementary)
+
+---
+
+# 🎯 Let's Build the Future Together:
+I’m always excited to collaborate on **AI-driven projects** requiring **deep technical expertise** and **creative problem-solving**. Let's **optimize** your AI systems, **build cutting-edge applications**, and **scale** them efficiently. Reach out, and let’s make it happen!
