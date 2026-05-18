@@ -1,8 +1,6 @@
 
 # 💫 About Me:
-Hello! I’m **Reza Tanakizadeh**, a **Computer Vision and Machine Learning Engineer** with a passion for developing cutting-edge solutions that help businesses thrive. I specialize in building **AI-driven applications** for real-world problems, from **medical image segmentation** to **secure AI agents** deployed in **cloud environments**. 
-
-Currently, I'm focused on **architecting AI systems** using **LangChain** and **LangGraph** for enhanced **search capabilities** and **Retrieval-Augmented Generation (RAG)** solutions. With hands-on experience in managing **Kubernetes clusters** and automating workflows, I’m driven by the challenge of optimizing AI systems for **cost efficiency** and **low latency**.
+Hello! I’m **Reza Tanakizadeh**, AI-native developer experienced in building client and personal projects using tools such as Codex, Cursor, and AI coding assistants. Skilled at translating ideas into working products, directing AI-assisted workflows, testing systems, and delivering efficient, reliable solutions.
 
 Whether it’s improving system efficiency, enhancing medical applications, or developing innovative AI products, I’m here to turn your **AI ideas** into reality. Let’s build the future of intelligent systems together! 🚀
 
